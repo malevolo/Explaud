@@ -1,0 +1,2 @@
+rootProject.name='Explaud'
+include ':app'
